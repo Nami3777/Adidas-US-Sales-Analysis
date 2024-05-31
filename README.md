@@ -5,7 +5,9 @@ This project involves an in-depth analysis of Adidas sales data in the US. Using
 Project Objectives
 
 Data Cleaning: Handle missing values, correct data types, and ensure data consistency.
+
 Exploratory Data Analysis (EDA): Gain insights into sales trends, identify high-performing products and regions, and uncover underlying patterns in the data.
+
 Visualization: Create informative and visually appealing charts and graphs to illustrate key findings.
 
 Key Features
@@ -17,7 +19,7 @@ Visualizations to support data-driven decision-making.
 
 Tools and Technologies
 
-Python: Primary programming language for analysis.
-Pandas: Data manipulation and analysis.
-Matplotlib & Seaborn: Data visualization.
-Jupyter Notebook: Interactive environment for developing and presenting the analysis.
+Python,
+Pandas,
+Matplotlib & Seaborn,
+Jupyter Notebook
